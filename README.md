@@ -1,4 +1,4 @@
-# Discord Bot
+# Discord Music Bot
 Simple discord bot that download and play the audio from Youtube.com.
 
 ### List of Commands
